@@ -1,9 +1,12 @@
 IT Club Week 2 task
-This repository contains a Python script for analyzing the Iris dataset. It includes:  
+**📌 Iris Dataset Analysis & Preprocessing 🚀**  
 
-- Data exploration and summary statistics using **pandas**  
-- Data visualization with **Matplotlib** and **Seaborn**  
-- Handling missing values and removing outliers using **Z-score**  
-- Feature scaling with **StandardScaler**  
+This repository contains a **Python script** for exploring and analyzing the **Iris dataset** with key data preprocessing techniques.  
 
-A simple yet powerful approach to data preprocessing and visualization! 🚀
+### 🔍 Key Features:  
+✔ **Data Exploration** – Generating summary statistics using **pandas**.  
+✔ **Data Visualization** – Creating insightful plots with **Matplotlib** and **Seaborn**.  
+✔ **Handling Missing Values & Outliers** – Using **Z-score** for outlier detection and removal.  
+✔ **Feature Scaling** – Standardizing numerical features with **StandardScaler**.  
+
+A simple yet powerful approach to **data preprocessing and visualization**! 📊✨
